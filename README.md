@@ -18,12 +18,12 @@ func main() {
 ```
 
 
-<div style="width: 100%; text-align: center; font-size: 18px;  margin-top: 20px; margin-bottom: 20px">
+<div align="center" style="width: 100%; text-align: center; font-size: 18px;  margin-top: 20px; margin-bottom: 20px">
 <p style="font-size: 12px; margin: 0;text-align: center"> GET / </p>
 <span style="text-align: center">Hey, soy <strong style="font-size: 20px">Eliezer</strong></span>
 </div>
 
-<div style="display:flex; gap: .25rem; justify-content: center; flex-wrap: wrap; margin-block: 1rem">
+<div align="center" style="display:flex; gap: .25rem; justify-content: center; flex-wrap: wrap; margin-block: 1rem">
 
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
 
