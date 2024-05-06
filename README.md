@@ -41,10 +41,10 @@ func main() {
 <!-- ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs?username=ttmday&layout=compact&theme=dark)
  -->
 
-#### Tambien puedes encontrarme en
+#### También puedes encontrarme en
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ttmday)
 
-#### Parte de mis proyectos actuales
+#### Algunos de mis proyectos actuales
 <a title="Gogh Creative Page" target="_blank" href="https://gogh.flippoapp.com">
 <img src="./gogh.jpg" alt="Gogh Creative"
 width="180px"
