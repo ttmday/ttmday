@@ -44,6 +44,7 @@ func main() {
 #### You can also find me at
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ttmday)
 
+#### This is part of my projects
 <a title="Gogh Creative Page" target="_blank" href="https://gogh.flippoapp.com">
 <img src="./gogh.jpg" alt="Gogh Creative"
 width="180px"
