@@ -41,12 +41,18 @@ func main() {
 <!-- ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs?username=ttmday&layout=compact&theme=dark)
  -->
 
-#### You can also find me at
+#### Tambien puedes encontrarme en
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ttmday)
 
-#### This is part of my projects
+#### Parte de mis proyectos actuales
 <a title="Gogh Creative Page" target="_blank" href="https://gogh.flippoapp.com">
 <img src="./gogh.jpg" alt="Gogh Creative"
+width="180px"
+height="auto"
+/>
+</a>
+<a title="Shurupitos App" target="_blank" href="https://play.google.com/store/apps/details?id=com.gogh.shurupitos">
+<img src="./icn-shurupitos-app1.png" alt="Shurupitos"
 width="180px"
 height="auto"
 />
